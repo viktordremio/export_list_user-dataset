@@ -10,4 +10,4 @@ select \* from
 where "LEFT"(vdss,1) != ('@')
 ```
 
-2.  run python script
+2.  run python script src/export_list_of_user_per_dataset.py
